@@ -8,7 +8,7 @@ import random
 # CHANCES: Set randrange end to which.
 # ENDPOINT: Set guess times, NOT include the endpoint.
 
-STARTPOINT = '1'
+STARTPOINT = 1
 CHANCES = 5
 ENDPOINT = 101
 
